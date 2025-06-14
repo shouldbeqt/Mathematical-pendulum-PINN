@@ -14,7 +14,7 @@ By mathematical pendulum i try to explore PINN and neural networks, so this solu
 
 3. But for boundary condition i using analytics formul for period, but it is created with approximation sin(a) ~ a, so i choose small max angle for smooth out this approximation
 
-![PINN](add pictures)
+![PINN](https://github.com/user-attachments/assets/17120714-55d4-4aeb-b743-e0fc7343563e)
 
 So i get so simple model due to learning taken around 10-20 minutes, and i recomend using your GPU for computate models
 
